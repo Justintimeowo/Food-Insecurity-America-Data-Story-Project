@@ -24,7 +24,7 @@ Utilised a variety of data sources in the US. This includes data collected from 
 
 Data cleaning, analysis, and visualisations was predominantly done in RStudio. A variety of outstanding data visualisations were utilised such as time series graphs, scatter plots, bar graphs, area graphs, as well as an interactive heatmap I created in RStudio.
 
-### Wwriting a Wrong: Misinformation
+### Writing a Wrong: Misinformation
 
 It is very easy to find misinformation online, particularly surrounding statistics and data visualisations. Required to find a piece of misinformation or opposiing perspective, assess its merits and create an opposing counter-argument.
 
